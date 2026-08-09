@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import bg from "../assets/authBg.png";
 import { IoEye } from "react-icons/io5";
 import { IoMdEyeOff } from "react-icons/io";
-import { userDataContext } from "../context/userContext";
+import { userDataContext } from "../context/UserContext";
 import axios from "axios";
 
 function SignUp() {
