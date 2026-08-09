@@ -13,7 +13,7 @@ function UserContext({ children }) {
   // SERVER
   // =====================================================
 
-  const serverUrl = "http://localhost:8000";
+  const serverUrl = "https://ai-virtual-assistant-backend-apkp.onrender.com";
 
   // =====================================================
   // USER STATE
