@@ -11,7 +11,7 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
 import bg from "../assets/authBg.png";
-import { userDataContext } from "../context/userContext";
+import { userDataContext } from "../context/UserContext";
 
 function Home() {
   const {
