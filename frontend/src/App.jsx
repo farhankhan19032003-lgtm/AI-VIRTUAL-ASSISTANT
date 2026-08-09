@@ -2,7 +2,7 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 import { useContext } from "react";
 
-import { userDataContext } from "./context/userContext";
+import { userDataContext } from "./context/UserContext";
 
 import SignUp from "./pages/SignUp";
 import SignIn from "./pages/SignIn";
