@@ -7,7 +7,7 @@ import React, {
 
 import { MdKeyboardBackspace } from "react-icons/md";
 import axios from "axios";
-import { userDataContext } from "../context/userContext";
+import { userDataContext } from "../context/UserContext";
 import { useNavigate } from "react-router-dom";
 
 import bg from "../assets/authBg.png";
